@@ -4,7 +4,7 @@
 Time Spent: 25hrs
 
 ###Walkthrough
-![Twitter Client](TwttrClientFragment.gif)
+![Twitter Client](TwitterFragmentDemo.gif)
 
 ###**Features:**
 
